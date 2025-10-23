@@ -1,4 +1,6 @@
-## Hi there 👋
+## Soy Tristán Borja Zamora, estudiante del Grado Superior en Administración de Sistemas Informáticos en Red (ASIR). Me apasiona el mundo de la informática, especialmente todo lo relacionado con la gestión, configuración y mantenimiento de redes y sistemas.
+
+Durante mis estudios en ASIR, estoy aprendiendo a administrar servidores, configurar redes locales (LAN y WAN), implementar servicios de red como DNS, DHCP o FTP, y gestionar sistemas operativos tanto en entornos Windows como Linux. También trabajamos con virtualización, seguridad informática, copias de seguridad y monitorización de sistemas, con el objetivo de mantener infraestructuras tecnológicas seguras, estables y eficientes.
 
 <!--
 **elgatoqueladra/elgatoqueladra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
